@@ -1,0 +1,1 @@
+<33>snort[17538]: [1:2402000:5050] ET DROP Dshield Block Listed Source group 1 [Classification: Misc Attack] [Priority: 2] {TCP} 176.119.4.18:44252 -> 66.41.76.127:8868
