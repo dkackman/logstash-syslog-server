@@ -1,0 +1,1 @@
+<85>Jan 30 19:10:04 pihole sudo: www-data : TTY=unknown ; PWD=/var/www/html/admin ; USER=root ; COMMAND=/usr/local/bin/pihole status web
