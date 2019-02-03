@@ -1,4 +1,5 @@
 #!/bin/bash
 
 cp ./syslog.conf /etc/logstash/conf.d/
+cp ./squid.conf /etc/logstash/conf.d/
 service logstash restart

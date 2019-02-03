@@ -1,0 +1,10 @@
+1549136782.027    280 10.0.0.3 TCP_MISS/200 1318 POST http://legato.radiotime.com/Radio.asmx - ORIGINAL_DST/104.17.106.184 text/xml
+1549136782.190     97 10.0.0.3 TCP_MISS/200 1325 POST http://legato.radiotime.com/Radio.asmx - ORIGINAL_DST/104.17.106.184 text/xml
+1549136782.211    138 10.0.0.3 TCP_MEM_HIT/200 10463 GET http://cdn-profiles.tunein.com/s34350/images/logog.png - HIER_NONE/- image/png
+1549136782.615    100 10.0.0.3 TCP_MISS/200 1377 POST http://legato.radiotime.com/Radio.asmx - ORIGINAL_DST/104.17.107.184 text/xml
+1549136782.665      0 10.0.0.3 TCP_MEM_HIT/200 10463 GET http://cdn-profiles.tunein.com/s34350/images/logog.png - HIER_NONE/- image/png
+1549136789.519    105 10.0.0.3 TCP_MISS/200 1080 POST http://legato.radiotime.com/Radio.asmx - ORIGINAL_DST/104.17.106.184 text/xml
+1549136850.966     90 10.0.0.3 TCP_MISS/204 225 GET http://connectivity-check.ubuntu.com/ - ORIGINAL_DST/35.224.99.156 -
+1549136936.982     66 10.0.0.3 TCP_MISS/204 225 GET http://connectivity-check.ubuntu.com/ - ORIGINAL_DST/35.222.85.5 -
+1549136975.708    117 10.0.0.3 TCP_MISS/200 1377 POST http://legato.radiotime.com/Radio.asmx - ORIGINAL_DST/104.17.107.184 text/xml
+1549136975.863      0 10.0.0.3 TCP_MEM_HIT/200 10463 GET http://cdn-profiles.tunein.com/s34350/images/logog.png - HIER_NONE/- image/png
