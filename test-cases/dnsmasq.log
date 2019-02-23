@@ -1,0 +1,9 @@
+<30>Feb 23 08:48:30 pihole dnsmasq[13840]: 673 192.168.1.219/46863 query[AAAA] dorker.lan from 192.168.1.219
+<30>Feb 23 08:48:27 pihole dnsmasq[13840]: 670 192.168.1.219/47167 config 192.168.1.2 is NXDOMAIN
+<30>Feb 23 08:48:27 pihole dnsmasq[13840]: 670 192.168.1.219/47167 query[PTR] 2.1.168.192.in-addr.arpa from 192.168.1.219
+<30>Feb 23 08:48:21 pihole dnsmasq[13840]: 669 192.168.1.219/39357 forwarded 77.223.213.156.in-addr.arpa to 1.1.1.1
+<30>Feb 23 08:48:21 pihole dnsmasq[13840]: 669 192.168.1.219/39357 reply 156.213.223.77 is host-156.213.77.223-static.tedata.net
+<30>Feb 23 08:48:20 pihole dnsmasq[13840]: 666 192.168.1.219/37374 query[A] dorker.lan from 192.168.1.219
+<30>Feb 23 08:48:20 pihole dnsmasq[13840]: 667 192.168.1.219/49467 cached dorker.lan is NODATA-IPv6
+<30>Feb 23 09:50:13 pihole dnsmasq[13840]: 3790 192.168.1.229/52654 DHCP 192.168.1.234 is Dons-MBP.lan
+<30>Feb 23 09:50:13 pihole dnsmasq[13840]: 3793 192.168.1.234/54732 forwarded lb._dns-sd._udp.lan to 1.1.1.1 
