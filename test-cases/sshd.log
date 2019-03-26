@@ -1,0 +1,7 @@
+<30>Jan 26 08:24:27 learner sshd[2131]: /etc/ssh/sshd_config line 38: Deprecated option RhostsRSAAuthentication
+<86>Mar 25 20:08:08 dorker sshd[4231]: pam_unix(sshd:session): session closed for user don
+<38>Jan 13 14:11:37 dorker sshd[18419]: Accepted publickey for don from 192.168.1.202 port 57438 ssh2: RSA SHA256:8TuFu5BnteB3zYUEqr4MpxLY0ANk/O/OpJlofjTZW+I
+<38>Jan 13 09:44:46 pihole sshd[18298]: Connection closed by 192.168.1.202 port 60444 [preauth]
+<38>Jan 26 08:24:27 learner sshd[2131]: Server listening on 0.0.0.0 port 22.
+<38>Jan 13 10:15:51 pihole sshd[18449]: Invalid user don from 192.168.1.202 port 60794
+<30>Jan 26 08:24:27 learner sshd[2131]: /etc/ssh/sshd_config line 38: Deprecated option RhostsRSAAuthentication
