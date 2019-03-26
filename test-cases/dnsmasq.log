@@ -8,3 +8,4 @@
 <30>Feb 23 09:50:13 pihole dnsmasq[13840]: 3790 192.168.1.229/52654 DHCP 192.168.1.234 is Dons-MBP.lan
 <30>Feb 23 09:50:13 pihole dnsmasq[13840]: 3793 192.168.1.234/54732 forwarded lb._dns-sd._udp.lan to 1.1.1.1 
 <30>Feb 23 16:44:53 pihole dnsmasq[13840]: 18072 192.168.1.202/44396 /etc/pihole/gravity.list www.google-analytics.com is 0.0.0.0
+<30>Mar 25 21:06:11 pihole dnsmasq[588]: 87821 192.168.1.219/44012 reply 209.141.58.16 is
