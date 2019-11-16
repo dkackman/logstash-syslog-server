@@ -1,7 +1,11 @@
 {
     "properties": {
-        "location": {
-        "type": "geo_point"
+      "geoip": {
+        "properties": {
+          "location": {
+            "type": "geo_point"
+          }
         }
+      }
     }
-}
+  }
