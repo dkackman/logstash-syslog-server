@@ -4,6 +4,5 @@
 
 - pipeline.id: syslog
   path.config: "/etc/logstash/conf.d/syslog.conf"
-
 - pipline.id: suricata
   path.config: "/etc/logstash/conf.d/suricata.conf"
