@@ -12,3 +12,4 @@
 <30>Nov 23 14:51:43 pihole dnsmasq[638]: * 192.168.1.219/21600 reply 124.in-addr.arpa is DNSKEY keytag 13072, algo 13
 <30>Nov 23 15:37:34 pihole dnsmasq[638]: * 192.168.1.219/2755 reply 24.in-addr.arpa is DS keytag 36510, algo 5, digest 1
 <30>Nov 23 14:51:43 pihole dnsmasq[638]: * 192.168.1.219/16477 dnssec-query[DS] 37.in-addr.arpa to 1.0.0.1
+<30>Nov 23 15:51:38 pihole dnsmasq[638]: * 192.168.1.219/13404 reply 14.128.in-addr.arpa is no DS
